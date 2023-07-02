@@ -1,0 +1,49 @@
+main:
+- identifier: "home"
+  weight: 1
+  name: "Home"
+  pre: "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
+  url: "/"
+- identifier: "about"
+  weight: 2
+  name: "About"
+  pre: "<i class=\"sidebar-button-icon fas fa-lg fa-user\" aria-hidden=\"true\"></i>"
+  url: "/about"
+# - identifier: "blog"
+#   weight: 3
+#   name: "Blog"
+#   pre: "<i class=\"sidebar-button-icon fas fa-lg fa-pen-square\" aria-hidden=\"true\"></i>"
+#   url: "/categories/blog"
+- identifier: "archives"
+  weight: 4
+  name: "Archives"
+  pre: "<i class=\"sidebar-button-icon fas fa-lg fa-archive\" aria-hidden=\"true\"></i>"
+  url: "/archives"
+- identifier: "categories"
+  weight: 5
+  name: "Categories"
+  pre: "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
+  url: "/categories"
+- identifier: "tags"
+  weight: 6
+  name: "Tags"
+  pre: "<i class=\"sidebar-button-icon fas fa-lg fa-tags\" aria-hidden=\"true\"></i>"
+  url: "/tags"
+
+links:
+- identifier: "github"
+  weight: 1
+  name: "GitHub"
+  pre: "<i class=\"sidebar-button-icon fab fa-lg fa-github\" aria-hidden=\"true\"></i>"
+  url: "https://github.com/immrshc"
+- identifier: "zenn"
+  weight: 2
+  name: "Zenn"
+  pre: "<i class=\"sidebar-button-icon fas fa-lg fa-bolt\" aria-hidden=\"true\"></i>"
+  url: "https://zenn.dev/imamura_sh"
+- identifier: "qiita"
+  weight: 3
+  name: "Qiita"
+  pre: "<i class=\"sidebar-button-icon fab fa-lg fa-quora\" aria-hidden=\"true\"></i>"
+  url: "https://qiita.com/immrshc"
+
