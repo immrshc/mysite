@@ -75,7 +75,7 @@ canonifyurls = true
   identifier = "about"
   name = "About"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-user\" aria-hidden=\"true\"></i>"
-  url = "/pages/about"
+  url = "/about"
 # [[menu.main]]
 #   weight = 3
 #   identifier = "blog"
