@@ -94,8 +94,8 @@ autoThumbnailImage: true
 # they have to be referred from static root. Example
 #  [[params.customCSS]]
 #    href: "css/mystyle.css"
-customCSS:
-  href: "css/custom.css"
+# customCSS:
+#   href: "css/custom.css"
 
 # Custom JS. Put here your custom JS files. They are loaded after the theme JS;
 # they have to be referred from static root. Example
