@@ -9,11 +9,11 @@ main:
   name: "About"
   pre: "<i class=\"sidebar-button-icon fas fa-lg fa-user\" aria-hidden=\"true\"></i>"
   url: "/about"
-# - identifier: "blog"
-#   weight: 3
-#   name: "Blog"
-#   pre: "<i class=\"sidebar-button-icon fas fa-lg fa-pen-square\" aria-hidden=\"true\"></i>"
-#   url: "/categories/blog"
+- identifier: "blog"
+  weight: 3
+  name: "Blog"
+  pre: "<i class=\"sidebar-button-icon fas fa-lg fa-pen-square\" aria-hidden=\"true\"></i>"
+  url: "/blog"
 - identifier: "archives"
   weight: 4
   name: "Archives"
