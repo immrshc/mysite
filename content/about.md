@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2023-07-02T17:27:37+09:00
-draft: true
+draft: false
 ---
 
 最終更新日: 2023/07/03
