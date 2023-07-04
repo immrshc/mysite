@@ -15,8 +15,8 @@
 baseURL: "https://immrshc.netlify.app/"
 languageCode: "ja"
 defaultContentLanguage: "ja"
-title: "Hugo tranquilpeak theme"
-disqusShortname: "tranquilpeak"
+title: "Shoichi Imamura"
+disqusShortname: "immrshc"
 # googleAnalytics: "UA-123-45"
 paginate: 7
 canonifyurls: true
