@@ -1,6 +1,6 @@
 # Set startLevel: 1 to support # title (<h1>title</h1>) otherwise table of content is blank/empty
-# tableOfContents:
-#   endLevel: 3
-#   ordered: false
-#   startLevel: 1
+tableOfContents:
+  endLevel: 3
+  ordered: false
+  startLevel: 1
 
